@@ -14,7 +14,7 @@
 
 ## 🎬 Intro Preview
 
-[🎥 Watch NOT OWRS — Intro Preview](./assets/not-owrs-intro.mp4)
+[🎥 Watch NOT OWRS — Intro Preview]([NOT OWRS — Intro Preview](https://github.com/phatthidasit-commits/-NOT-OWRS---A-Psychological-Visual-Novel-/issues/1#issue-6249846404))
 
 > *This video presents the introductory concept and visual direction of the project. The full game is currently under development.*
 
